@@ -3130,6 +3130,7 @@ button:disabled,
 
   #header {
     height: 80vh;
+    margin-top: 20px;
   }
 
   #header:after {
@@ -3138,6 +3139,7 @@ button:disabled,
 
   #header header {
     padding-bottom: 0;
+    margin-top: 20px;
   }
 
   #header header h1 {
