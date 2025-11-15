@@ -1,66 +1,87 @@
-# Resume template
+# Nathan Jones - Professional Resume
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+*Lead Consulting Software Developer with 15+ years of experience*
 
-![img](images/screenshot.png)
+This repository contains my professional resume website built with Jekyll and hosted on GitHub Pages.
 
-## Docs
+## 🌐 Live Site
+The site will be available at: **[drnatejones.com](https://drnatejones.com)**
 
-### Running locally
+## 🚀 GitHub Pages Setup
+
+### Step 1: Push to GitHub
+```bash
+git push origin master
+```
+
+### Step 2: Enable GitHub Pages
+1. Go to your repository settings on GitHub (https://github.com/cohesivejones/cohesivejones/settings/pages)
+2. Navigate to "Pages" section in the left sidebar
+3. Under "Source", select the `master` branch (or `main` if that's your default)
+4. Click "Save"
+
+### Step 3: Configure Custom Domain (drnatejones.com)
+1. In the GitHub Pages settings, add `drnatejones.com` to the "Custom domain" field
+2. The CNAME file is already configured in this repository
+3. In your domain registrar (where you manage drnatejones.com), add these DNS records:
+   
+   **A Records** pointing to GitHub Pages IPs:
+   - `185.199.108.153`
+   - `185.199.109.153`
+   - `185.199.110.153`
+   - `185.199.111.153`
+   
+   **CNAME Record** (optional, for www subdomain):
+   - Host: `www`
+   - Points to: `cohesivejones.github.io`
+
+4. Wait for DNS propagation (can take up to 24-48 hours, but usually faster)
+5. Once the custom domain is verified, enable "Enforce HTTPS" in the GitHub Pages settings
+
+## 🛠️ Local Development
 
 To test locally, run the following in your terminal:
 
-1. Clone repo locally
-1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open your browser to `localhost:4000`
+1. Install dependencies: `bundle install`
+2. Start Jekyll server: `bundle exec jekyll serve`
+3. Open your browser to `http://localhost:4000`
 
-### Running locally with Docker
+## 🐳 Running with Docker
 
-To test locally with docker, run the following in your terminal after installing docker into your system:
+To test locally with docker, run the following in your terminal:
 
 1. `docker image build -t resume-template .`
 2. `docker run --rm --name resume-template -v "$PWD":/home/app --network host resume-template`
 
-### Customizing
+## 📝 Updating Content
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+### Experience
+Edit `_data/experience.yml` to update work history
 
-#### Options/configuration
+### Skills
+Edit `_data/skills.yml` to update technical skills
 
-Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
+### Projects
+Edit `_data/projects.yml` to update project portfolio
 
-[...write these out...]
+### Education
+Edit `_data/education.yml` to update education information
 
-#### Editing content
+### Personal Information
+Edit `_config.yml` to update:
+- Name and title
+- Contact information
+- Social media links
+- Site configuration
 
-Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
+### Avatar Image
+Replace `images/avatar.png` with your own image
 
-### Publishing to GitHub Pages for free
+## 📋 Content Source
+Resume content populated from RESUME.pdf and RESUME.docx
 
-[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
+## 🙏 Credits
+This site uses the [Resume Template](https://github.com/jglovier/resume-template) by Joel Glovier, customized for Nathan Jones.
 
-### Configuring with your own domain name
-
-To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
-
-### Themes
-
-Right now resume-template only has one theme. More are coming :soon: though. :heart:
-
-## Roadmap
-
-A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
-
-## Contributing
-
-If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
-
-1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
-2. Fork the project, make changes, and submit a pull request
-
-## License
-
-The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
-
-Disclaimer: Use of Lisa M. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
+## 📄 License
+The template is licensed under the MIT license. [See project license.](LICENSE)
