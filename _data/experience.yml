@@ -1,0 +1,34 @@
+# Jobs
+# Lead Consulting Software Developer at Stride
+- company: Stride
+  position: Lead Consulting Software Developer
+  duration: 2020 &mdash; Present
+  summary: Leading technical teams and delivering comprehensive software solutions for enterprise clients across various industries. Key projects include migrating API codebases to TypeScript, implementing accessibility improvements, and developing reinsurance platforms.
+    <ul class="resume-item-list">
+      <li><strong>Peak Reservations:</strong> Spearheaded the initiative to migrate the API codebase from JavaScript to TypeScript, significantly enhancing code maintainability and reducing runtime errors</li>
+      <li><strong>Peloton:</strong> Collaborated with team to implement comprehensive accessibility improvements, addressing WCAG compliance and providing equitable user experience</li>
+      <li><strong>Allied World:</strong> Led the development of a new reinsurance platform managing client underwriting and claims applications</li>
+      <li><strong>IBM:</strong> Worked with CIO department to improve internal tooling for broadcast system, delivering Apache Solr search functionality to enhance content management efficiency</li>
+    </ul>
+
+# Senior Software Engineer at Casebook PBC
+- company: Casebook PBC
+  position: Senior Software Engineer
+  duration: 2018 &mdash; 2020
+  summary: Contributed to the development of a child welfare / human services platform designed with microservices architecture. The platform utilized Scala, JavaScript, and Ruby on the backend, with front-end solutions built in Node.js, React, and Redux, and mobile clients in React Native.
+
+# Lead Software Developer at Casecommons
+- company: Casecommons
+  position: Lead Software Developer
+  duration: 2014 &mdash; 2018
+  summary: Key contributor on multiple teams responsible for developing and maintaining a comprehensive child welfare management system used by state agencies.
+    <ul class="resume-item-list">
+      <li>Led development and maintenance of Indiana's child welfare management system, encompassing intake processing, case management, child placement, and investigation of abuse and neglect cases</li>
+      <li>Led the development of California's Intake system, overseeing a team of developers and collaborating with multiple vendors to design and implement a user-friendly frontend interface</li>
+    </ul>
+
+# Software Engineer
+- company: Various Projects
+  position: Software Engineer
+  duration: 2010 &mdash; 2014
+  summary: Worked on diverse software development projects gaining expertise in agile programming, test-driven development, and extreme programming methodologies while building enterprise-scale applications.

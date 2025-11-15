@@ -1,0 +1,63 @@
+# Site settings
+title: "Nathan Jones - Lead Consulting Software Developer"
+description: "Professional resume of Nathan Jones, Lead Consulting Software Developer with 15+ years of experience."
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Nathan Jones"
+resume_title:                   "Lead Consulting Software Developer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "sales@stride.build"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       ""
+resume_contact_address:         ""
+
+resume_header_contact_info:     "sales@stride.build • www.stride.build"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>Nathan is a software engineer with a Computer Science degree from Curtin University in Western Australia and over 15 years of experience. His expertise lies in agile programming, test-driven development, and extreme programming. Nate has a proven track record of success in leading technical teams, making critical design decisions, and managing technical projects. He also has extensive experience working on large-scale software systems designed to support state child welfare agencies.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "no"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/cohesivejones"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "https://www.stride.build"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

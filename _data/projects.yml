@@ -1,0 +1,30 @@
+# Projects
+# Peak Reservations - TypeScript Migration
+- project: Peak Reservations - TypeScript Migration
+  role: Technical Lead
+  duration: 2023 &mdash; 2024
+  description: Spearheaded the initiative to migrate the API codebase from JavaScript to TypeScript. This migration significantly enhanced code maintainability, improved the overall understanding of data flow through various layers of the backend architecture, and reduced the likelihood of runtime errors due to type mismatches.
+
+# Peloton - Accessibility Improvements
+- project: Peloton - Accessibility Compliance
+  role: Senior Developer
+  duration: 2022 &mdash; 2023
+  description: Collaborated with team to implement a series of comprehensive improvements to the site's accessibility, which addressed a range of issues identified in a recent accessibility audit. This initiative involved refactoring code, redesigning elements, and integrating assistive technologies to ensure compliance with WCAG standards.
+
+# Allied World - Reinsurance Platform
+- project: Allied World - Reinsurance Platform
+  role: Lead Developer
+  duration: 2021 &mdash; 2022
+  description: Led the development and implementation of the new reinsurance platform which managed clients underwriting and claims applications. Improved interactions with shared document management system.
+
+# California Child Welfare Intake System
+- project: California Child Welfare Intake System
+  role: Lead Developer & Team Lead
+  duration: 2016 &mdash; 2018
+  description: Led the development of California's Intake system, overseeing a team of developers and collaborating with multiple vendors to successfully design and implement a user-friendly frontend interface that streamlined the intake process for the entire state.
+
+# Indiana Child Welfare Management System
+- project: Indiana Child Welfare Management System
+  role: Key Contributor
+  duration: 2014 &mdash; 2016
+  description: Key contributor on multiple teams responsible for the development and maintenance of a comprehensive child welfare management system. This system encompassed intake processing, ongoing case management, placement of children in suitable care environments, and thorough investigation of reported child abuse and neglect cases.
