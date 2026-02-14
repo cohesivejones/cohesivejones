@@ -3,7 +3,7 @@
 ## ✅ What's Been Done
 
 1. **Jekyll Resume Template Installed** - Using the template from jglovier/resume-template
-2. **Content Populated** - Your resume data from RESUME.pdf has been added:
+2. **Content Populated** - Your resume data has been added:
    - Work Experience: Stride, Casebook PBC, Casecommons, and earlier roles
    - Skills: Java, TypeScript, React, Ruby, Node.js, and more
    - Projects: Peak Reservations, Peloton, Allied World, IBM, California & Indiana child welfare systems

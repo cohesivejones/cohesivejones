@@ -77,9 +77,6 @@ Edit `_config.yml` to update:
 ### Avatar Image
 Replace `images/avatar.png` with your own image
 
-## 📋 Content Source
-Resume content populated from RESUME.pdf and RESUME.docx
-
 ## 🙏 Credits
 This site uses the [Resume Template](https://github.com/jglovier/resume-template) by Joel Glovier, customized for Nathan Jones.
 
