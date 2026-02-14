@@ -14,16 +14,16 @@ resume_name:                    "Nathan Jones"
 resume_title:                   "Lead Consulting Software Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "sales@stride.build"
+resume_contact_email:           "nate@drnatejones.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       ""
-resume_contact_address:         ""
+resume_contact_telephone:       "+61 467 160 454"
+resume_contact_address:         "Mandurah, WA"
 
-resume_header_contact_info:     "sales@stride.build • www.stride.build"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Mandurah, WA • nate@drnatejones.com • +61 467 160 454"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Nathan is a software engineer with a Computer Science degree from Curtin University in Western Australia and over 15 years of experience. His expertise lies in agile programming, test-driven development, and extreme programming. Nate has a proven track record of success in leading technical teams, making critical design decisions, and managing technical projects. He also has extensive experience working on large-scale software systems designed to support state child welfare agencies.</p>"
+resume_header_intro: "<p>I am passionate about coding and problem solving, with a particular enthusiasm for building clean, maintainable software. I thrive in collaborative environments, helping teams move efficiently and achieve their goals by leveraging Agile practices and Extreme Programming principles.</p><p>I enjoy breaking down complex problems into manageable solutions, mentoring colleagues, and fostering a culture of continuous improvement. Whether it's designing scalable architectures, writing robust code, or facilitating effective team processes, I aim to create value not only through technical excellence but also by enabling others to succeed.</p><p>I am motivated by challenges, constantly seeking opportunities to learn new technologies, experiment with innovative approaches, and contribute to projects that make a tangible impact.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

@@ -1,34 +1,43 @@
 # Jobs
-# Lead Consulting Software Developer at Stride
-- company: Stride
-  position: Lead Consulting Software Developer
-  duration: 2020 &mdash; Present
-  summary: Leading technical teams and delivering comprehensive software solutions for enterprise clients across various industries. Key projects include migrating API codebases to TypeScript, implementing accessibility improvements, and developing reinsurance platforms.
+# Lead Software Consultant at Stride
+- company: Stride Consulting
+  position: Lead Software Consultant
+  duration: Nov 2018 &mdash; Jan 2026
+  summary: At Stride, I helped clients meet challenging expectations and improve unscalable architectures by applying Extreme Programming (XP) and engineering best practices. I am passionate about teaching and coaching colleagues through example—demonstrating best practices and engineering rigor daily—while delivering high-quality, working software directly to client product owners.
     <ul class="resume-item-list">
-      <li><strong>Peak Reservations:</strong> Spearheaded the initiative to migrate the API codebase from JavaScript to TypeScript, significantly enhancing code maintainability and reducing runtime errors</li>
-      <li><strong>Peloton:</strong> Collaborated with team to implement comprehensive accessibility improvements, addressing WCAG compliance and providing equitable user experience</li>
-      <li><strong>Allied World:</strong> Led the development of a new reinsurance platform managing client underwriting and claims applications</li>
-      <li><strong>IBM:</strong> Worked with CIO department to improve internal tooling for broadcast system, delivering Apache Solr search functionality to enhance content management efficiency</li>
+      <li><strong>Publishing Company (Dec 2025 – Jan 2026):</strong> Designed and built an AI-powered storytelling platform combining RPG mechanics with generative narrative. Implemented dynamic story generation using Python, React, and LangChain. Collaborated closely with product and creative stakeholders on narrative mechanics and UX. Delivered the winning proof-of-concept, selected over three competing vendors.</li>
+      <li><strong>FinTech Company (Sept 2025 – Nov 2025):</strong> Built an alpha capture system supporting trading and investment workflows. Developed backend services in Go and a React/TypeScript frontend. Partnered directly with stakeholders to rapidly iterate on requirements. Delivered a production-ready system in under three months, deployed to AWS.</li>
+      <li><strong>Peak Reservations (Jan 2021 – Jun 2023):</strong> Developed a greenfield reservation management platform. Built a React Native client to support non-web customers; validated mobile viability through real-world usage.</li>
+      <li><strong>Peloton (Aug 2020 – May 2021):</strong> Improved site accessibility for the ecommerce platform. Updated booking site to include latest product offerings.</li>
+      <li><strong>Allied World (Feb 2020 – Jul 2020):</strong> Contributed to the development of a new reinsurance platform supporting client underwriting and claims workflows. Improved integration with the shared document management system, reducing friction in document access and improving operational efficiency for underwriting and claims teams.</li>
+      <li><strong>Building Link (Aug 2019 – Feb 2020):</strong> Worked with stakeholders to design and implement a practical, non-dogmatic agile approach aligned to business needs and constraints. Improved delivery transparency and predictability through tailored processes and focused team structures. Introduced structure to the recruitment funnel, improving hiring consistency and decision-making.</li>
+      <li><strong>IBM (Dec 2018 – Jul 2019):</strong> Improved search functionality for the Department of the CIO's internal tooling and broadcast system by optimizing how broadcast users managed departmental content and migrating search indexing to Solr. Introduced a new architecture to extend the range of supported content types, resulting in a more maintainable and extensible codebase for the broadcast service. Coached team members on engineering best practices and held regular 1-on-1s, improving code quality, consistency, and overall team effectiveness.</li>
     </ul>
 
 # Senior Software Engineer at Casebook PBC
 - company: Casebook PBC
   position: Senior Software Engineer
-  duration: 2018 &mdash; 2020
-  summary: Contributed to the development of a child welfare / human services platform designed with microservices architecture. The platform utilized Scala, JavaScript, and Ruby on the backend, with front-end solutions built in Node.js, React, and Redux, and mobile clients in React Native.
+  duration: Jan 2018 &mdash; Oct 2018
+  summary: For-profit spin-out of CaseCommons focused on commercialising child welfare and human services software. Contributed to the decomposition of a large monolithic Rails application into a microservice-oriented platform, enabling modular, state-specific vertical products. Developed backend services in Scala and Ruby, with React/Redux web frontends and React Native mobile clients.
 
-# Lead Software Developer at Casecommons
-- company: Casecommons
-  position: Lead Software Developer
-  duration: 2014 &mdash; 2018
-  summary: Key contributor on multiple teams responsible for developing and maintaining a comprehensive child welfare management system used by state agencies.
+# Senior Software Engineer at CaseCommons
+- company: CaseCommons
+  position: Senior Software Engineer
+  duration: 2012 &mdash; Jan 2018
+  summary: CaseCommons is a non-profit organisation providing case management software for child welfare services across multiple U.S. states, where I modernised large-scale case management systems using Ruby on Rails and React, led teams applying pair programming and test-driven development, and collaborated closely with product, design, and external vendors.
     <ul class="resume-item-list">
-      <li>Led development and maintenance of Indiana's child welfare management system, encompassing intake processing, case management, child placement, and investigation of abuse and neglect cases</li>
-      <li>Led the development of California's Intake system, overseeing a team of developers and collaborating with multiple vendors to design and implement a user-friendly frontend interface</li>
+      <li><strong>CA Child Welfare Digital Services — Intake:</strong> Delivered a React-based intake portal integrating with the state's legacy systems. Led workshops on Redux's unidirectional data flow and React component design. Mentored developers on TDD, Agile practices, and engineering best practices.</li>
+      <li><strong>Indiana Department of Child Services — MAGIK:</strong> Migrated frontend components from Backbone.js to React and Redux. Transitioned a Rails monolith from PGSearch to Elasticsearch, improving scalability and search relevance.</li>
     </ul>
 
-# Software Engineer
-- company: Various Projects
+# Software Engineer at UXC Professional Solutions
+- company: UXC Professional Solutions
   position: Software Engineer
-  duration: 2010 &mdash; 2014
-  summary: Worked on diverse software development projects gaining expertise in agile programming, test-driven development, and extreme programming methodologies while building enterprise-scale applications.
+  duration: 2010 &mdash; 2012
+  summary: Developed .NET solutions for SharePoint applications while supporting mobile applications at UXC Mobility. Delivered software for a variety of Australian organisations and government departments, collaborating in Agile teams to ensure timely, high-quality solutions.
+
+# Mobile Software Engineer at UXC Mobility
+- company: UXC Mobility
+  position: Mobile Software Engineer
+  duration: 2008 &mdash; 2010
+  summary: Designed and implemented mobile solutions for merchandising, asset tracking, CRM, and ERP on Pocket PC and BlackBerry devices. Worked with Java, .NET Compact Framework, and iOS to deliver reliable applications for disconnected environments, ensuring high usability and operational efficiency for enterprise clients.

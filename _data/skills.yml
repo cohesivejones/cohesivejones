@@ -1,24 +1,20 @@
 # Skills
-# Programming Languages
-- skill: Programming Languages
-  description: Java, TypeScript, JavaScript, Node.js, React, Ruby, Rails, Scala, Python
+# Languages & Frameworks
+- skill: Languages & Frameworks
+  description: Ruby (10+ yrs), Rails, Grape, JavaScript, TypeScript (8+ yrs), Go, Python, Java
 
-# Frontend Development
-- skill: Frontend Development
-  description: React, Redux, React Native, TypeScript, JavaScript, HTML5, CSS3, Accessibility (WCAG compliance)
+# Frontend
+- skill: Frontend
+  description: React, Redux, Vue, Vuex, Next.js, React Native
 
-# Backend Development
-- skill: Backend Development
-  description: Node.js, Ruby on Rails, Scala, Java, Microservices Architecture, RESTful APIs
+# Backend & Architecture
+- skill: Backend & Architecture
+  description: Node.js, Express, Microservices, REST, JSON RPC
 
-# Databases & Infrastructure
-- skill: Databases & Infrastructure
-  description: PostgreSQL, Docker, Heroku, Apache Solr
+# Cloud & DevOps
+- skill: Cloud & DevOps
+  description: AWS, CI/CD pipelines, Git, Docker
 
-# Development Methodologies
-- skill: Development Methodologies
-  description: Agile Programming, Test-Driven Development (TDD), Extreme Programming (XP), Technical Team Leadership
-
-# Domain Expertise
-- skill: Domain Expertise
-  description: Child Welfare Systems, Human Services Platforms, Enterprise Software Development, State Agency Solutions
+# Engineering Practices
+- skill: Engineering Practices
+  description: Test-Driven Development (TDD), Extreme Programming, Agile, Pair Programming
