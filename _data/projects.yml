@@ -11,10 +11,16 @@
   duration: Sept 2025 &mdash; Nov 2025
   description: Built an alpha capture system supporting trading and investment workflows. Developed backend services in Go and a React/TypeScript frontend. Partnered directly with stakeholders to rapidly iterate on requirements. Delivered a production-ready system in under three months, deployed to AWS.
 
+# Merit - AI Feedback Platform
+- project: Merit - AI Feedback Platform
+  role: Lead Developer
+  duration: Jan 2025 &mdash; Aug 2025
+  description: Developed a feedback site that used AI to generate reports for managers; multi-tenanted application in Next.js, React, and TypeScript. Migrated the app to production, resolved security concerns before go-live. Released a chat feedback bot using Server-Sent Events (SSE) and made the site SEO-compliant.
+
 # Peak Reservations - Reservation Management Platform
 - project: Peak Reservations - Reservation Management Platform
   role: Technical Lead
-  duration: Jan 2021 &mdash; Jun 2023
+  duration: Jan 2021 &mdash; Nov 2024
   description: Developed a greenfield reservation management platform. Built a React Native client to support non-web customers; validated mobile viability through real-world usage. Spearheaded the initiative to migrate the API codebase from JavaScript to TypeScript, significantly enhancing code maintainability and reducing runtime errors.
 
 # Peloton - Accessibility Improvements
