@@ -1,6 +1,6 @@
 # Site settings
-title: "Nathan Jones - Lead Consulting Software Developer"
-description: "Professional resume of Nathan Jones, Lead Consulting Software Developer with 15+ years of experience."
+title: "Nathan Jones - Tech Lead Developer"
+description: "Professional resume of Nathan Jones, Tech Lead Developer with 15+ years of experience."
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Nathan Jones"
-resume_title:                   "Lead Consulting Software Developer"
+resume_title:                   "Tech Lead Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "nate@drnatejones.com"
@@ -29,7 +29,7 @@ resume_header_intro: "<p>I am passionate about coding and problem solving, with 
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/nathan-jones-13399728/"
   # resume_instagram_url:         "https://www.instagram.com/drnatejones/"
-  resume_website_url:           "https://www.stride.build"
+  # resume_website_url:           "https://www.stride.build"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
